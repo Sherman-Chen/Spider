@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<dataset>
+    <job id="1" positionName="php" positionAdvantage="没有" salary="10k-20k" minsalary="10" maxsalary="20" 
+        companyName="php公司" companySize="10人" companyLabelList="没有" industryField="123" education="本科" 
+        workYear="10年" createTime="968544000" />
+
+</dataset>

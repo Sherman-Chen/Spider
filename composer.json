@@ -1,0 +1,15 @@
+{
+    "name": "code7070/spider",
+    "description": "A spider class in php.",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "5.5.*"
+    },
+    "authors": [
+        {
+            "name": "code7070",
+            "email": "707039333@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
